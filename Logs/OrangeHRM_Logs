@@ -1,0 +1,42 @@
+2023-02-17 13:06:04,999:INFO:xdist worker is: gw1
+2023-02-17 13:06:04,999:INFO:xdist worker is: gw0
+2023-02-17 13:06:05,000:INFO:====== WebDriver manager ======
+2023-02-17 13:06:05,000:INFO:====== WebDriver manager ======
+2023-02-17 13:06:08,554:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:06:09,311:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:06:12,078:INFO:Driver [C:\Users\HP\.wdm\gw0\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:06:12,643:INFO:Driver [C:\Users\HP\.wdm\gw1\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:06:55,162:INFO:xdist worker is: gw0
+2023-02-17 13:06:55,162:INFO:xdist worker is: gw1
+2023-02-17 13:06:55,163:INFO:====== WebDriver manager ======
+2023-02-17 13:06:58,603:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:06:58,636:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:07:02,231:INFO:Driver [C:\Users\HP\.wdm\gw0\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:07:02,276:INFO:Driver [C:\Users\HP\.wdm\gw1\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:07:38,933:INFO:xdist worker is: gw0
+2023-02-17 13:07:38,933:INFO:xdist worker is: gw1
+2023-02-17 13:07:38,934:INFO:====== WebDriver manager ======
+2023-02-17 13:07:38,934:INFO:====== WebDriver manager ======
+2023-02-17 13:07:42,328:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:07:42,388:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:07:45,878:INFO:Driver [C:\Users\HP\.wdm\gw0\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:07:45,983:INFO:Driver [C:\Users\HP\.wdm\gw1\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:08:47,533:INFO:====== WebDriver manager ======
+2023-02-17 13:08:50,414:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:08:53,271:INFO:Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:08:56,133:INFO:====== WebDriver manager ======
+2023-02-17 13:08:59,166:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:09:02,299:INFO:Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:12:19,581:INFO:====== WebDriver manager ======
+2023-02-17 13:12:22,399:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:12:25,445:INFO:Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:12:29,876:INFO:++++++++Test001_login ++++++++
+2023-02-17 13:12:29,876:INFO:++++++++verifying Home Page title++++++++
+2023-02-17 13:12:34,892:INFO:++++++++comparing actual and expected title++++++++
+2023-02-17 13:12:34,892:INFO:++++++++HomePage Test Passed++++++++
+2023-02-17 13:12:35,536:INFO:====== WebDriver manager ======
+2023-02-17 13:12:38,342:INFO:Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-17 13:12:41,439:INFO:Driver [C:\Users\HP\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-17 13:12:43,586:INFO:++++++++verifying the login test++++++++
+2023-02-17 13:12:54,900:INFO:++++++++clicked login button++++++++
+2023-02-17 13:12:56,315:INFO:++++++++Login test passed++++++++
